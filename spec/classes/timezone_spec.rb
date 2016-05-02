@@ -12,7 +12,7 @@ describe 'timezone' do
   [ {},
     {
       :ensure      => 'present',
-      :timezone    => 'Europe/Berlin',
+      :timezone    => 'Asia/Kolkata',
       :autoupgrade => false,
     },
     {
